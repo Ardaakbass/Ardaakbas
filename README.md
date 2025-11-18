@@ -16,7 +16,7 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardaakbass&show_icons=true&theme=radical&hide_border=true" alt="stats" />
 </p>
 
 <p align="left">
