@@ -20,5 +20,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaakbss&layout=compact&theme=radical&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaakbass&layout=compact&theme=radical&hide_border=true" alt="languages" />
 </p># Ardaakbass
